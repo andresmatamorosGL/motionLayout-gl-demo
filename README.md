@@ -1,5 +1,5 @@
 # Motion Layout Demo
-This is a simple example for the Motion Layout GL demo.
+This is a simple App for the `MotionLayout` presentation.
 
 # 📋 Description 
 
